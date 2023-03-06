@@ -5,7 +5,7 @@
 <div align="justify">
 Project developed to improve the project available in the sam-multilayer-perceptron-sklearn repository.
 <br><br>
-This project presents a Multilayer Perceptron model developed in Tensorflow/Keras for processing the SAM dataset.
+This project presents a Multilayer Perceptron model developed in Tensorflow/Keras for processing the SAM dataset. This dataset has records of brain activity of 40 individuals who were monitored while performing certain stress-inducing activities. The purpose of this dataset is the analysis of stress levels.
 <br><br>
 The Multilayer Perceptron reached an accuracy rate of 94.14% in predictions. This accuracy rate is lower than the accuracy reached in the original project (98.60%), but this implementation has the following advantages:
 <br><br>
